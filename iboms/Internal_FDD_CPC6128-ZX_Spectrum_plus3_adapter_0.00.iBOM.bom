@@ -1,0 +1,11 @@
+Component Count: 8
+|Qty|Reference|Value|Package|
+|:-|:-|:-|:-|
+|1|J1|FDD POWER|Berg Connector or Molex KK-254 AE-6410-04A 1x04 𝄩2.54mm Vertical|
+|1|J2|Drive A/~B|Pin header 1x02 𝄩2.54mm|
+|1|J3|FDD DATA|Pin header 2x13 𝄩2.54mm|
+|1|J4|SIDE|Pin header 1x03 𝄩2.54mm|
+|1|J5|GOTEK POWER|Pin socket 1x04 𝄩2.54mm|
+|1|J6|GOTEK DATA|Pin header 2x17 𝄩2.54mm|
+|1|JP2|Drive A/~B|Shorting jumper 1x02 𝄩2.54mm|
+|1|JP4|SIDE|Shorting jumper 1x03 𝄩2.54mm|
